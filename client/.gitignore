@@ -1,0 +1,17 @@
+node_modules
+
+dist
+
+build
+
+src/assets/
+
+npm-debug.log
+
+.nyc
+
+.env
+
+.DS_Store
+
+.parcel-cache
